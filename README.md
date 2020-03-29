@@ -1,5 +1,4 @@
-=>Basic Concept of Django
-
+    =>Basic Concept of Django
     1. How to check django in system
        python -m django --version(on the cmd promot)
     2. How to download django
