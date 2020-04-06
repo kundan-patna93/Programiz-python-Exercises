@@ -32,4 +32,4 @@
 =>project with multiple application
 
 
-=>Define urls of project, level reduces reusabolity of the application 
+=>Define urls of project, level reduces reusabolity of the application  
