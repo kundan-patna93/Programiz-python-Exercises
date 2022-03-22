@@ -18,18 +18,13 @@
         py manage.py startapp <app name>
     3.  Run project
         python manage.py runserver
+     
+1)Create project and test connection:
+2)Create Hello word in django:
+3)Single application with multiple view function:
+4)Multiple Application inside project:
+5)Create urls inside the Application:
+6)Create template file in django:
+
+
         
-        
-=>First hello world code of project
-
-
-=>First hello world code of project with application
-
-
-=>Single application of multiple views functions
-
-
-=>project with multiple application
-
-
-=>Define urls of project, level reduces reusabolity of the application  
